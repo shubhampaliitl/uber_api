@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+pickle4
+pandas 
+numpy 
+matplotlib 
+scikit-learn
+geopy
